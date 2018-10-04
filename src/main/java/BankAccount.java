@@ -20,6 +20,7 @@ public class BankAccount {
     }
 
     private int accountNumber;
+
     public BankAccountType accountType;
     private double accountBalance;
     private String ownerName;
